@@ -1,6 +1,18 @@
 # Woodworking-Project-Ideas-for-Beginners
 Woodworking Project Ideas for Beginners
 https://woodworkingprojectideasforbeginners.com/
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+
+    <h1>Welcome to My Web Page</h1>
+    <p>Visit <a href="https://www.example.com">Example Website</a> for more information.</p>
+
+</body>
+</html>
 
 <html>
 <head>
